@@ -23,6 +23,10 @@ public class ValidMountainArray {
         //initializing the i to be 0 outside for loop because the value of i needs to be used in multiple places
         int i =0;
 
+
+        //9562295747
+
+
         //We keep on iterating till we reach the peak and we keep on increasing the value of i
         //When we reach the peak we break out so that we have the value from which the decreasing sequence starts
         //Also if the values are equal we straight away return false

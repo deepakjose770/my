@@ -1,0 +1,12 @@
+
+L
+java:S3740!"/Provide the parametrized type for this generic.(‡¤»ş8éôÔ®ü0
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç×¢ıÿÿÿÿ8ñôÔ®ü0
+h	java:S116
+"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ€ü¬8ƒõÔ®ü0
+
+java:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8„õÔ®ü0
+L
+java:S1197"*Move the array designators [] to the type.(·ƒÎéúÿÿÿÿ8†õÔ®ü0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Øõ©¤úÿÿÿÿ8õÔ®ü0
